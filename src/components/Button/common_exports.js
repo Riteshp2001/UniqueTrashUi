@@ -1,0 +1,5 @@
+const MINIMUM_RIPPLE_SIZE = 100;
+
+const BUTTON_DEBUG = false;
+
+export { MINIMUM_RIPPLE_SIZE, BUTTON_DEBUG };
