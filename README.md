@@ -5,7 +5,7 @@
 
 <h1 align="center">Unique Trash Ui</h1>
 
-Choose your options with a grin! Our library introduces a collection of wacky selectors that add a dash of humor to user interactions. Embrace the chaos and let your users smile their way through forms.
+Choose your options with a grin! My library introduces a collection of wacky selectors that add a dash of humor to user interactions. Embrace the chaos and let your users smile their way through forms.
 
 ## Getting Started
 
@@ -15,6 +15,14 @@ Choose your options with a grin! Our library introduces a collection of wacky se
 -   npm
 
 ### Installation
+
+- Using NPM Command Line Interface (CLI):
+
+```sh
+npm install unique_trash_ui@latest
+```
+
+**or**
 
 1. Clone the repository:
 
@@ -34,12 +42,6 @@ cd UniqueTrashUi
 npm install
 ```
 
-4. Start the development server to see Demo of the library in action:
-
-```sh
-npm run dev
-```
-
 ### Usage
 
 To use a component from this library, import it in your file:
@@ -53,10 +55,10 @@ Then, you can use it in your React component:
 ```jsx
 function App() {
 	return (
-		<div className="App">
-			<ButtonV1 />
-			<RangeV1 />
-		</div>
+	<div className="App">
+		<ButtonV1 />
+		<RangeV1 />
+	</div>
 	);
 }
 
