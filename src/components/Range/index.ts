@@ -1,3 +1,3 @@
-import Range from "./Range_v1";
+import RangeV1 from "./Range_v1/Range_v1";
 
-export { Range };
+export { RangeV1 };
