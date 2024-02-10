@@ -1,4 +1,9 @@
-# UniqueTrashUi
+<!-- markdownlint-disable-next-line -->
+<p align="center">
+  <a href="https://github.com/Riteshp2001/UniqueTrashUi" rel="noopener" target="_blank"><img width="200" height="133" src ="./public/TrashUi.png" alt="Trash logo"></a>
+</p>
+
+<h1 align="center">Unique Trash Ui</h1>
 
 Choose your options with a grin! Our library introduces a collection of wacky selectors that add a dash of humor to user interactions. Embrace the chaos and let your users smile their way through forms.
 
