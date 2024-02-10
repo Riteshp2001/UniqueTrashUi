@@ -1,7 +1,7 @@
 {
-  "name": "vite-react-ts-button",
+  "name": "unique_trash_ui",
   "private": false,
-  "version": "0.0.4",
+  "version": "0.0.1",
   "type": "module",
   "main": "dist/index.umd.js",
   "module": "dist/index.es.js",
@@ -13,6 +13,46 @@
       "types": "./dist/index.d.ts"
     }
   },
+  "keywords": [
+    "react",
+    "tailwindcss",
+    "ui",
+    "components",
+    "trashy",
+    "UI",
+    "whimsical",
+    "forms",
+    "radio",
+    "button",
+    "redesign",
+    "checkbox",
+    "humor",
+    "interactive",
+    "user",
+    "interface",
+    "playful",
+    "design",
+    "creative",
+    "input",
+    "fields",
+    "web",
+    "development",
+    "fun",
+    "user",
+    "engagement",
+    "library",
+    "Jest",
+    "testing",
+    "for",
+    "UI",
+    "quirky",
+    "selectors",
+    "funny",
+    "forms",
+    "unconventional",
+    "UI",
+    "elements"
+  ],
   "files": [
     "/dist"
   ],
@@ -28,7 +68,9 @@
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "tailwindcss": "^3.2.4"
+    "react-hot-toast": "^2.4.1",
+    "tailwindcss": "^3.2.4",
+    "unique_trash_ui": "^0.0.1"
   },
   "devDependencies": {
     "@types/react": "^18.0.26",
